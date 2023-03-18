@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+
+<body>
+    <!-- Este es mi primer comentario de dos líneas -->
+
+    <!-- Aprendiendo a documentar mi código con OpenBootcamp -->
+
+    <ul>
+        <li><iframe width="560" height="315" src="https://www.youtube.com/embed/VKazmNa8haI" title="video del mar congelado-sin copyright-[visual freedom]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+        <li><iframe width="560" height="315" src="https://www.youtube.com/embed/b_J9gqwHfEE" title="Video De La Animacion De La Tierra En 3D-Sin Copyright-[Visual Freedom]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+        <li><iframe width="560" height="315" src="https://www.youtube.com/embed/1AmQUu05ruw" title="Video Del Paisaje De Miami-Sin Copyright-[Visual Freedom]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+    </ul>
+</body>
+
+</html>
